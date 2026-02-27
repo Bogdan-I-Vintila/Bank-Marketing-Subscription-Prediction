@@ -2,8 +2,8 @@ BANK MARKETING SUBSCRIPTION PREDICTION
 
 Overview
 
-  This project analyzes a bank marketing dataset and builds machine learning models to predict whether a client will subscribe to a term deposit.
-  The goal is to support marketing decisions by identifying potential subscribers.
+  -This project analyzes a bank marketing dataset and builds machine learning models to predict whether a client will subscribe to a term deposit.
+  -The goal is to support marketing decisions by identifying potential subscribers.
 
 What I did
 
